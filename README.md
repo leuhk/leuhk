@@ -107,10 +107,10 @@ development accessible to everyone
 
 <p align="center">
 <a href="https://github.com/leuhk">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=leuhk&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&icon_color=00B894&text_color=c9d1d9&include_all_commits=true&count_private=true" width="49%"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=leuhk&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&icon_color=00B894&text_color=c9d1d9&include_all_commits=true&count_private=true" width="57.5%"/>
 </a>
 <a href="https://github.com/leuhk">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=leuhk&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&text_color=c9d1d9&langs_count=8" width="49%"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=leuhk&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&text_color=c9d1d9&langs_count=8" width="42%"/>
 </a>
 </p>
 
