@@ -1,207 +1,137 @@
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00D4AA,100:00B894&height=120&section=header"/>
 
-<!-- Animated Header with DeltaDeFi Gradient -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:5399A6,100:289E8D&height=300&section=header&text=Jack%20Leung&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Building%20the%20Future%20of%20DeFi%20on%20Cardano&descAlignY=55&descSize=20"/>
+  <div align="center">
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=289E8D&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%9A%80+Founder+%40+DeltaDeFi;%E2%9B%93+Decentralized+Exchange+on+Hydra+L2;%F0%9F%92%8E+Scaling+Cardano+to+New+Heights)](https://git.io/typing-svg)
+  # Jackal Leung
 
-<!-- DeltaDeFi Logo -->
-<br/>
-<img src="https://raw.githubusercontent.com/leuhk/leuhk/main/Frame_19487548104-removebg-preview.png" alt="DeltaDeFi" height="120"/>
-<br/>
-<img src="https://raw.githubusercontent.com/leuhk/leuhk/main/Logo_name.png" alt="DeltaDeFi" height="50"/>
-<br/><br/>
+  **DeFi Builder | Open Source Developer**
 
-<!-- Social Badges -->
-<p align="center">
-  <a href="https://deltadefi.io"><img src="https://img.shields.io/badge/🌐_DeltaDeFi-289E8D?style=for-the-badge&logoColor=white"/></a>
-  <a href="https://twitter.com/deltaboracle"><img src="https://img.shields.io/badge/Twitter-289E8D?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://discord.gg/deltadefi"><img src="https://img.shields.io/badge/Discord-289E8D?style=for-the-badge&logo=discord&logoColor=white"/></a>
-</p>
+  [![DeltaDeFi](https://img.shields.io/badge/DeltaDeFi-Co--Founder-00D4AA?style=flat-square)](https://deltadefi.io)
+  [![SIDAN Lab](https://img.shields.io/badge/SIDAN%20Lab-Co--Founder-00B894?style=flat-square)](https://sidan.io)
 
-<!-- Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=leuhk&style=for-the-badge&color=289E8D"/>
-  <img src="https://img.shields.io/github/followers/leuhk?style=for-the-badge&color=289E8D&labelColor=0A0A0A"/>
-</p>
+  <br/>
 
-</div>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=Building+next-gen+DeFi+on+Cardano;Open+source+tools+for+blockchain+devs;Hydra-powered+trading+infrastructure" alt="Typing SVG" />
 
----
+  </div>
 
-<!-- About Section -->
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leuhk&layout=donut-vertical&hide_border=true&bg_color=0D171C&title_color=289E8D&text_color=EAECEF&icon_color=5399A6" width="280"/>
+  ---
 
-## 🧑‍💻 About Me
+  <table>
+  <tr>
+  <td width="50%" valign="top">
 
-```typescript
-const jack = {
-    pronouns: "he" | "him",
-    location: "Hong Kong 🇭🇰",
-    role: "Founder @ DeltaDeFi",
-    mission: "Democratizing DeFi on Cardano",
-    
-    building: {
-        project: "DeltaDeFi",
-        description: "High-performance DEX on Hydra L2",
-        features: [
-            "⚡ Sub-second finality",
-            "💰 Near-zero trading fees", 
-            "🔐 Non-custodial trading",
-            "📈 Advanced order types"
-        ]
-    },
-    
-    passions: [
-        "Decentralized Finance",
-        "Layer 2 Scaling", 
-        "Open Source",
-        "Financial Inclusion"
-    ]
-};
-```
+  ### About
 
-<br clear="right"/>
+  Building next-gen trading infrastructure on Cardano.
 
----
+  - Co-founder at [DeltaDeFi](https://deltadefi.io) & [SIDAN Lab](https://sidan.io)
+  - Hong Kong
 
-## 💎 DeltaDeFi — The Future of Trading on Cardano
+  </td>
+  <td width="50%" valign="top">
 
-<table>
-<tr>
-<td width="25%" align="center">
+  ### Tech Stack
 
-### ⚡ Lightning Fast
-- 1000+ TPS on Hydra L2
-- Sub-second finality
-- Real-time order matching
+  Backend          Go | Rust | TypeScript | Ruby
+  Frontend         React | Next.js
+  Blockchain       Cardano | Hydra L2
+  Data             PostgreSQL | Redis | QuestDB
+  Infrastructure   AWS | GCP | Kubernetes | Docker
 
-</td>
-<td width="25%" align="center">
+  <p>
+  <img src="https://skillicons.dev/icons?i=go,rust,ts,ruby,react,postgres,redis,aws,gcp,kubernetes,docker&theme=dark" height="32"/>
+  </p>
 
-### 🔐 Secure
-- Your keys, your crypto
-- Audited smart contracts
-- On-chain settlement
+  </td>
+  </tr>
+  </table>
 
-</td>
-<td width="25%" align="center">
+  ---
 
-### 💰 Advanced Trading
-- Limit & Market orders
-- Stop-loss & Take-profit
-- Professional interface
+  ### Organizations
 
-</td>
-<td width="25%" align="center">
+  <table>
+  <tr>
+  <td align="center" width="50%">
 
-### 🌐 Built for Scale
-- Hydra state channels
-- UTXO architecture
-- Horizontal scaling
+  <a href="https://github.com/deltadefi-protocol">
+  <img src="https://img.shields.io/badge/DeltaDeFi-Protocol-00D4AA?style=for-the-badge&logoColor=white" height="28"/>
+  </a>
 
-</td>
-</tr>
-</table>
+  **Cardano Trading Infrastructure**
 
----
+  Instant order confirmation, zero-fee trading,
+  API-first design powered by Hydra L2
 
-## 🛠️ Tech Arsenal
+  [Website](https://deltadefi.io) | [App](https://app.deltadefi.io) | [Docs](https://docs.deltadefi.io)
 
-<table>
-<tr>
-<td align="center" width="140"><b>Backend</b></td>
-<td>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
-</td>
-</tr>
-<tr>
-<td align="center"><b>Frontend</b></td>
-<td>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-</td>
-</tr>
-<tr>
-<td align="center"><b>Blockchain</b></td>
-<td>
-  <img src="https://img.shields.io/badge/Cardano-0033AD?style=flat-square&logo=cardano&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hydra_L2-289E8D?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Aiken-5399A6?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Plutus-1E3A5F?style=flat-square&logoColor=white"/>
-</td>
-</tr>
-<tr>
-<td align="center"><b>Infrastructure</b></td>
-<td>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white"/>
-</td>
-</tr>
-<tr>
-<td align="center"><b>Data</b></td>
-<td>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/QuestDB-d14671?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PgBouncer-336791?style=flat-square&logoColor=white"/>
-</td>
-</tr>
-</table>
+  </td>
+  <td align="center" width="50%">
 
----
+  <a href="https://github.com/sidan-lab">
+  <img src="https://img.shields.io/badge/SIDAN-Lab-00B894?style=for-the-badge&logoColor=white" height="28"/>
+  </a>
 
-## 📊 GitHub Stats
+  **Cardano Developer Tooling**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leuhk&show_icons=true&hide_border=true&bg_color=0D171C&title_color=289E8D&text_color=EAECEF&icon_color=5399A6&include_all_commits=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leuhk&hide_border=true&background=0D171C&ring=289E8D&fire=5399A6&currStreakLabel=289E8D&sideLabels=EAECEF&currStreakNum=EAECEF&dates=888888" height="180"/>
-</div>
+  Open-source libraries making blockchain
+  development accessible to everyone
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leuhk&bg_color=0D171C&color=289E8D&line=5399A6&point=EAECEF&area=true&hide_border=true" width="95%"/>
-</div>
+  [Website](https://sidan.io) | [GitHub](https://github.com/sidan-lab)
 
----
+  </td>
+  </tr>
+  </table>
 
-## 🎨 DeltaDeFi Brand Colors
+  ---
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Primary-289E8D?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Secondary-5399A6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Dark-0D171C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Accent-EAECEF?style=for-the-badge&labelColor=0A0A0A"/>
-</div>
+  ### Open Source
 
----
+  **The Cardano Bar** — A complete toolkit for Cardano development
 
-## 🤝 Let's Connect
+  | Library | Language | Description | |
+  |---------|----------|-------------|---|
+  | [**Mesh**](https://github.com/MeshJS/mesh) | TypeScript | Web3 SDK for Cardano | ![Stars](https://img.shields.io/github/stars/MeshJS/mesh?style=flat-square&color=00D4AA&labelColor=0d1117) |
+  | [**Whisky**](https://github.com/sidan-lab/whisky) | Rust | Transaction building & serialization | ![Stars](https://img.shields.io/github/stars/sidan-lab/whisky?style=flat-square&color=00D4AA&labelColor=0d1117) |
+  | [**Vodka**](https://github.com/sidan-lab/vodka) | Aiken | Smart contract utilities & testing | ![Stars](https://img.shields.io/github/stars/sidan-lab/vodka?style=flat-square&color=00D4AA&labelColor=0d1117) |
+  | [**Rum**](https://github.com/sidan-lab/rum) | Go | Golang Cardano library | ![Stars](https://img.shields.io/github/stars/sidan-lab/rum?style=flat-square&color=00D4AA&labelColor=0d1117) |
+  | [**Gin**](https://github.com/sidan-lab/gin) | Python | Python Cardano library | ![Stars](https://img.shields.io/github/stars/sidan-lab/gin?style=flat-square&color=00D4AA&labelColor=0d1117) |
+  | [**Cardano Bar**](https://github.com/sidan-lab/cardano-bar) | Multi | Cross-framework dev tools | ![Stars](https://img.shields.io/github/stars/sidan-lab/cardano-bar?style=flat-square&color=00D4AA&labelColor=0d1117) |
 
-<div align="center">
+  ---
 
-💼 **Open to collaborations on DeFi, Cardano, and Web3 projects!**
+  ### Stats
 
-<br/>
+  <p align="center">
+  <a href="https://github.com/leuhk">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=leuhk&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&icon_color=00B894&text_color=c9d1d9&include_all_commits=true&count_private=true" width="49%"/>
+  </a>
+  <a href="https://github.com/leuhk">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=leuhk&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&text_color=c9d1d9&langs_count=8" width="49%"/>
+  </a>
+  </p>
 
-[![Email](https://img.shields.io/badge/Email-289E8D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jack@deltadefi.io)
-[![DeltaDeFi](https://img.shields.io/badge/Try_DeltaDeFi-289E8D?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTEyIDJMMyA5TDEyIDIyTDIxIDlMMTIgMloiLz48L3N2Zz4=&logoColor=white)](https://deltadefi.io)
+  <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leuhk&theme=react-dark&hide_border=true&bg_color=0d1117&color=00D4AA&line=00B894&point=ffffff&area=true&area_color=00D4AA" width="100%"/>
+  </p>
 
-</div>
+  ---
 
----
+  <div align="center">
 
-<div align="center">
+  ### Connect
 
-### ⭐ From [leuhk](https://github.com/leuhk) with 💚
+  [![Twitter](https://img.shields.io/badge/@deltaboracle-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/deltaboracle)
+  [![DeltaDeFi](https://img.shields.io/badge/@DeltaDeFi-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/DeltaDeFi)
+  [![SIDAN Lab](https://img.shields.io/badge/@sidan__lab-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/sidan_lab)
+  [![GitHub](https://img.shields.io/badge/leuhk-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/leuhk)
+  [![Email](https://img.shields.io/badge/jack@deltadefi.io-00D4AA?style=flat-square&logo=gmail&logoColor=white)](mailto:jackal.leung@deltadefi.io)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:5399A6,100:289E8D&height=120&section=footer"/>
+  <br/>
 
-</div>
+  *"Open source is not just about code — it's about building communities."*
+
+  </div>
+
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00B894,50:00D4AA,100:0d1117&height=80&section=footer"/>
