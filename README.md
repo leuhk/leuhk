@@ -11,7 +11,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=Building+next-gen+DeFi+on+Cardano;Open+source+tools+for+blockchain+devs;Hydra-powered+trading+infrastructure" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=18&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=Building+next-gen+DeFi+on+Cardano;Open+source+tools+for+blockchain+devs;Hydra-powered+trading+infrastructure" alt="Typing SVG" />
 
 </div>
 
