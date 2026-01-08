@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<h1><img src="https://raw.githubusercontent.com/leuhk/leuhk/main/Frame_19487548104-removebg-preview.png" height="45" alt="DeltaDeFi"/> Jackal Leung</h1>
+<h1><img src="https://raw.githubusercontent.com/leuhk/leuhk/main/Frame_19487548104-removebg-preview.png" height="36" align="center" alt="DeltaDeFi"/>&nbsp;&nbsp;Jackal Leung</h1>
 
 **DeFi Builder | Open Source Developer**
 
